@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+numpy
+pymongo
+fastapi
+faker
+uvicorn
+pydantic
